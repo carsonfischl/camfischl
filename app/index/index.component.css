@@ -1,0 +1,46 @@
+div{
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    align-content: center;
+}
+
+blockquote{
+    margin: 5rem;
+    font-size: large;
+}
+
+body{
+    font-family: 'Inconsolata', monospace;
+}
+
+h1{
+    font-family: 'Inconsolata', monospace;
+    line-height: 2.0;
+}
+
+footer{
+    font-family: 'Inconsolata', monospace;
+}
+
+div.row{
+    align: center;
+    margin: auto;
+    text-align: center;
+}
+
+div.rotate_right{
+    margin:auto;
+    align:center;
+}
+
+div.rotate_left{
+    margin: auto;
+    align: center;
+}
+
+img{
+    align: center;
+    margin: auto;
+    text-align: center;
+}

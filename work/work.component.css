@@ -1,0 +1,18 @@
+
+h2{
+    padding: 3rem;
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    padding: 3rem;
+    margin:auto;
+    font-family: 'Inconsolata', monospace;
+    text-align:center;
+}
+
+ul, li{
+    margin: auto;
+    text-align: left;
+}

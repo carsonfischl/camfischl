@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    margin: 30px;
+}
+
+footer{
+    text-align: center;
+}
+
+body{
+    font-family: 'Inconsolata', monospace;
+}
+
+header{
+    font-family: 'Inconsolata', monospace;
+    padding: 30px;
+}
+
+footer{
+    font-family: 'Inconsolata', monospace;
+}
+h1,h2,h3,h4,h5{
+    font-family: 'Inconsolata', monospace;
+}
+
+div{
+    background-color: transparent;
+}
