@@ -1,0 +1,76 @@
+html{
+    padding: 3rem;
+    margin:auto;
+    font-family: 'Inconsolata', monospace;
+    text-align:center;
+    line-height: 2.0;
+    background-image: linear-gradient(lightblue, blue);
+}
+
+div.app-root{
+    background-image: linear-gradient(lightblue, blue);
+}
+
+div.row{
+    text-align: center;
+    margin: auto;
+}
+
+div.polaroid {
+    width: 426px;
+    padding: 20px 20px 40px 20px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    margin: auto;
+  }
+  
+  div.rotate_right {
+    float: left;
+    -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Safari */
+    transform: rotate(7deg);
+    margin: auto;
+  }
+  
+  div.rotate_left {
+    float: left;
+    -ms-transform: rotate(-8deg); /* IE 9 */
+    -webkit-transform: rotate(-8deg); /* Safari */
+    transform: rotate(-8deg);
+    margin: auto;
+  }
+  .col-sm-6{
+        margin: auto;
+  }
+
+  img{
+      margin: auto;
+  }
+
+  h1, h2, h3{
+    margin: auto;
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+  }
+
+  ul, li{
+    margin: auto;
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+  }
+
+  div{
+    margin: auto;
+    text-align: center;
+  }
+
+  blockquote{
+    margin: 5rem;
+    font-size: large;
+}
+
+ul, li{
+  margin: auto;
+  text-align: left;
+}
